@@ -1,4 +1,4 @@
-# And-the-protein-ligand-went-boom
+# And the protein/ligand went boom
 A collection of various computational chemistry/biochemistry fails.
 
 To quote the Gromacs manual: https://manual.gromacs.org/current/user-guide/terminology.html#blowing-up
